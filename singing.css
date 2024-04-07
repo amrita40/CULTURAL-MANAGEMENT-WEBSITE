@@ -1,0 +1,14 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.8)), url("https://media.licdn.com/dms/image/C4E12AQFD-cRp-s5UrQ/article-cover_image-shrink_720_1280/0/1570541152087?e=2147483647&v=beta&t=2-413LbVIh00WjvcCg_rEuutCN-8O3In5ObQyabwOwo");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.dance_text{
+    font-size: larger;
+    line-height: 1.5;
+    color: white;
+}
+.dance_table{
+    padding-top: 30px;
+}
